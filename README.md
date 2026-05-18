@@ -5,7 +5,7 @@
 ## Quick Links
 - 💼 [LinkedIn](https://linkedin.com/in/palkinsuneja)
 - 🐙 [GitHub](https://github.com/palkinsuneja)
-- 💻 [LeetCode](https://leetcode.com/palkinsuneja)
+- 💻 [LeetCode](https://www.linkedin.com/in/palkin-suneja-bb172628b/)
 
 ## Projects
 - [Jet Engine Predictive Maintenance](https://github.com/palkinsuneja/predictive-maintenance)
