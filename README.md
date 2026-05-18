@@ -3,9 +3,9 @@
 📄 [Download Resume (PDF)](./Palkin.pdf)
 
 ## Quick Links
-- 💼 [LinkedIn](https://linkedin.com/in/palkinsuneja)
+- 💼 [LinkedIn](https://www.linkedin.com/in/palkin-suneja-bb172628b/)
 - 🐙 [GitHub](https://github.com/palkinsuneja)
-- 💻 [LeetCode](https://www.linkedin.com/in/palkin-suneja-bb172628b/)
+- 💻 [LeetCode](https://leetcode.com/palkinsuneja)
 
 ## Projects
 - [Jet Engine Predictive Maintenance](https://github.com/palkinsuneja/predictive-maintenance)
